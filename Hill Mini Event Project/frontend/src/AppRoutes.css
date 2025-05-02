@@ -1,0 +1,17 @@
+/* AppRoutes.css */
+.app-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .page-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+  }
+  
